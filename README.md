@@ -57,13 +57,13 @@ Based on the comparison, KNN performed the best overall, with the highest accura
 ### Confusion Matrices
 
 #### KNN (K=10)
-<img src='images/knn_confusion_matrix.png' height='250'>
+<img src='images/knn_confusion_matrix.png' height='350'>
 
 #### SVM (Linear Kernel)
-![SVM Linear Confusion Matrix](./images/svm_linear_confusion_matrix.png)
+<img src='images/svm_linear_confusion_matrix.png' height='350'>
 
 #### SVM (Radial Kernel)
-![SVM Radial Confusion Matrix](./images/svm_radial_confusion_matrix.png)
+<img src='images/svm_radial_confusion_matrix.png' height='350'>
 
 ## Results
 
